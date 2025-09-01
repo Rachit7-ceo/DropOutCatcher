@@ -1,0 +1,12 @@
+flask
+requests
+pdfplumber
+python-docx
+pytesseract
+Pillow
+fpdf
+
+
+
+#if u want to install all at once use below coomad
+pip install -r requirements.txt
